@@ -1,0 +1,38 @@
+[
+  {
+    "end-frame": 111,
+    "event-class": "0 added",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 81
+  },
+  {
+    "end-frame": 135,
+    "event-class": "1 removed",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 111
+  },
+  {
+    "end-frame": 176,
+    "event-class": "0 added",
+    "object-class": "Horizon Organic Chocolate Milk",
+    "start-frame": 141
+  },
+  {
+    "end-frame": 196,
+    "event-class": "1 removed",
+    "object-class": "Horizon Organic Chocolate Milk",
+    "start-frame": 176
+  },
+  {
+    "end-frame": 228,
+    "event-class": "0 added",
+    "object-class": "Horizon Organic Chocolate Milk",
+    "start-frame": 208
+  },
+  {
+    "end-frame": 264,
+    "event-class": "1 removed",
+    "object-class": "Horizon Organic Chocolate Milk",
+    "start-frame": 234
+  }
+]

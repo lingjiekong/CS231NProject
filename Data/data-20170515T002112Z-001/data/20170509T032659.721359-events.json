@@ -1,0 +1,86 @@
+[
+  {
+    "end-frame": 118,
+    "event-class": "0 added",
+    "object-class": "Horizon Organic Chocolate Milk",
+    "start-frame": 71
+  },
+  {
+    "end-frame": 160,
+    "event-class": "0 removed",
+    "object-class": "Horizon Organic Chocolate Milk",
+    "start-frame": 124
+  },
+  {
+    "end-frame": 168,
+    "event-class": "0 added",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 157
+  },
+  {
+    "end-frame": 198,
+    "event-class": "0 removed",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 170
+  },
+  {
+    "end-frame": 207,
+    "event-class": "0 added",
+    "object-class": "Judys Organic Extra Large Brown Eggs",
+    "start-frame": 195
+  },
+  {
+    "end-frame": 264,
+    "event-class": "0 removed",
+    "object-class": "Judys Organic Extra Large Brown Eggs",
+    "start-frame": 207
+  },
+  {
+    "end-frame": 280,
+    "event-class": "0 added",
+    "object-class": "Fage Total Greek Yogurt",
+    "start-frame": 262
+  },
+  {
+    "end-frame": 291,
+    "event-class": "0 removed",
+    "object-class": "Fage Total Greek Yogurt",
+    "start-frame": 282
+  },
+  {
+    "end-frame": 302,
+    "event-class": "0 added",
+    "object-class": "Whole Foods Dark Chocolate Walnuts",
+    "start-frame": 290
+  },
+  {
+    "end-frame": 331,
+    "event-class": "0 removed",
+    "object-class": "Whole Foods Dark Chocolate Walnuts",
+    "start-frame": 302
+  },
+  {
+    "end-frame": 386,
+    "event-class": "0 added",
+    "object-class": "Organic Blueberries",
+    "start-frame": 367
+  },
+  {
+    "end-frame": 414,
+    "event-class": "1 removed",
+    "object-class": "Organic Blueberries",
+    "start-frame": 386
+  },
+  {
+    "end-frame": 614,
+    "event-class": "1 added",
+    "object-class": "Organic Blueberries",
+    "start-frame": 543
+  },
+  {
+    "end-frame": 645,
+    "event-class": "0 removed",
+    "object-class": "Organic Blueberries",
+    "start-frame": 614
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "end-frame": 126,
+    "event-class": "0 added",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 113
+  },
+  {
+    "end-frame": 135,
+    "event-class": "0 removed",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 126
+  },
+  {
+    "end-frame": 287,
+    "event-class": "1 added",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 134
+  },
+  {
+    "end-frame": 309,
+    "event-class": "0 removed",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 287
+  },
+  {
+    "end-frame": 444,
+    "event-class": "1 added",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 326
+  },
+  {
+    "end-frame": 512,
+    "event-class": "0 removed",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 445
+  },
+  {
+    "end-frame": 647,
+    "event-class": "1 added",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 516
+  },
+  {
+    "end-frame": 702,
+    "event-class": "0 removed",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 669
+  }
+]

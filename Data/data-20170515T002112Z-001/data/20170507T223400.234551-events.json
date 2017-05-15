@@ -1,0 +1,110 @@
+[
+  {
+    "end-frame": 93,
+    "event-class": "0 added",
+    "object-class": "Fage Total Greek Yogurt",
+    "start-frame": 79
+  },
+  {
+    "end-frame": 164,
+    "event-class": "1 removed",
+    "object-class": "Fage Total Greek Yogurt",
+    "start-frame": 95
+  },
+  {
+    "end-frame": 283,
+    "event-class": "0 added",
+    "object-class": "Fage Total Greek Yogurt",
+    "start-frame": 262
+  },
+  {
+    "end-frame": 316,
+    "event-class": "1 removed",
+    "object-class": "Fage Total Greek Yogurt",
+    "start-frame": 291
+  },
+  {
+    "end-frame": 357,
+    "event-class": "1 added",
+    "object-class": "Fage Total Greek Yogurt",
+    "start-frame": 316
+  },
+  {
+    "end-frame": 370,
+    "event-class": "0 removed",
+    "object-class": "Fage Total Greek Yogurt",
+    "start-frame": 357
+  },
+  {
+    "end-frame": 426,
+    "event-class": "0 added",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 386
+  },
+  {
+    "end-frame": 496,
+    "event-class": "0 removed",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 418
+  },
+  {
+    "end-frame": 514,
+    "event-class": "0 added",
+    "object-class": "Almond Breeze Almondmilk",
+    "start-frame": 488
+  },
+  {
+    "end-frame": 559,
+    "event-class": "1 removed",
+    "object-class": "Almond Breeze Almondmilk",
+    "start-frame": 514
+  },
+  {
+    "end-frame": 705,
+    "event-class": "0 added",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 693
+  },
+  {
+    "end-frame": 729,
+    "event-class": "1 removed",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 705
+  },
+  {
+    "end-frame": 1048,
+    "event-class": "1 added",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 1009
+  },
+  {
+    "end-frame": 1060,
+    "event-class": "0 removed",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 1048
+  },
+  {
+    "end-frame": 1105,
+    "event-class": "1 added",
+    "object-class": "Almond Breeze Almondmilk",
+    "start-frame": 1059
+  },
+  {
+    "end-frame": 1118,
+    "event-class": "0 removed",
+    "object-class": "Almond Breeze Almondmilk",
+    "start-frame": 1105
+  },
+  {
+    "end-frame": 1121,
+    "event-class": "0 added",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 1110
+  },
+  {
+    "end-frame": 1141,
+    "event-class": "1 removed",
+    "object-class": "Clover Organic 2% Milk",
+    "start-frame": 1121
+  }
+]

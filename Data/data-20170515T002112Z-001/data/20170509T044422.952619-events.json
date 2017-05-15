@@ -1,0 +1,50 @@
+[
+  {
+    "end-frame": 137,
+    "event-class": "1 added",
+    "object-class": "Vicolo Quattro Formaggi Pizza",
+    "start-frame": 104
+  },
+  {
+    "end-frame": 152,
+    "event-class": "0 removed",
+    "object-class": "Vicolo Quattro Formaggi Pizza",
+    "start-frame": 136
+  },
+  {
+    "end-frame": 209,
+    "event-class": "1 added",
+    "object-class": "Vicolo Quattro Formaggi Pizza",
+    "start-frame": 156
+  },
+  {
+    "end-frame": 226,
+    "event-class": "0 removed",
+    "object-class": "Vicolo Quattro Formaggi Pizza",
+    "start-frame": 209
+  },
+  {
+    "end-frame": 269,
+    "event-class": "1 added",
+    "object-class": "Vicolo Quattro Formaggi Pizza",
+    "start-frame": 226
+  },
+  {
+    "end-frame": 303,
+    "event-class": "0 removed",
+    "object-class": "Vicolo Quattro Formaggi Pizza",
+    "start-frame": 282
+  },
+  {
+    "end-frame": 569,
+    "event-class": "2 added",
+    "object-class": "Salad",
+    "start-frame": 532
+  },
+  {
+    "end-frame": 623,
+    "event-class": "0 removed",
+    "object-class": "Salad",
+    "start-frame": 601
+  }
+]

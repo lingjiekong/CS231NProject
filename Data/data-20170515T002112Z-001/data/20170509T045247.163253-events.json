@@ -1,0 +1,14 @@
+[
+  {
+    "end-frame": 113,
+    "event-class": "2 added",
+    "object-class": "Salad",
+    "start-frame": 53
+  },
+  {
+    "end-frame": 143,
+    "event-class": "0 removed",
+    "object-class": "Salad",
+    "start-frame": 126
+  }
+]
